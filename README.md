@@ -1,10 +1,10 @@
-# Universidad [Nombre de la Universidad]  
-## Facultad de [Nombre de la Facultad]  
-### Carrera de [Nombre de la Carrera]  
+# Universidad [Universidad Tecnica de Ambato]  
+## Facultad de [FISEI]  
+### Carrera de [Ingenieria en Software]  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** ___________________________  
-**Fecha:** ___________________  
+**Nombre del Estudiante:** Sandro Iker Fernandez Lima  
+**Fecha:** 08/04/2026  
 
 ---
 
@@ -40,7 +40,15 @@
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta a la Pregunta 1 -->
+- `git clone`: Copia un repositorio remoto a tu máquina local.
+- `fork`: Crea una copia del repositorio en tu cuenta de GitHub.
+- `git pull`: Descarga los cambios del remoto y los fusiona con tu rama actual.
+------------------------------------------------------------------------------------
+PARTE PRACTICA
+- El fork se realizó desde GitHub usando el botón "Fork".
+- El clone se hizo con `git clone https://github.com/Sandrofer/EVALUACION_1P.git`.
+- Para verificar que trabajo sobre mi fork, ejecuté `git remote -v` y la URL apunta a mi repositorio.
+
 
 ---
 
