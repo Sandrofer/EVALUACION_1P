@@ -111,8 +111,15 @@ PARTE PRACTICA
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
-
+**Comandos exactos**:
+```bash
+git flow init -d
+git flow feature start ingresar-encabezado
+nano README.md
+git commit -m "Se modifico el encabezado"
+git flow feature finish ingresar-encabezado
+![Inicialización Git Flow](images/pregunta3_init.png)
+![Inicio feature](images/pregunta3_start.png)
 ---
 
 ## Pregunta 4 (2 puntos)
