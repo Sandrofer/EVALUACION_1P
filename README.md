@@ -233,3 +233,20 @@ Ocurre cuando dos ramas modifican la misma parte de un archivo y Git no puede de
 **📝 Respuesta:**
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 6 -->
+### Respuesta Pregunta 6
+
+**Proceso realizado**:
+1. En develop, eliminé `archivoA.txt` y `archivoB.txt`.
+2. Fusioné develop en main local.
+3. Subí main con todos los tags (incluyendo `Pregunta1` a `Pregunta5` y `Version_Final`).
+4. Creé un Pull Request desde mi fork (`Sandrofer/EVALUACION_1P`, rama `develop`) hacia el repositorio original (`santiagojara/EVALUACION_1P`, rama `main`).
+   - Título: "Sandro Fernandez"
+   - Descripción: "https://github.com/Sandrofer/EVALUACION_1P"
+
+**Versionamiento semántico**:
+- Consiste en asignar versiones con el formato `MAJOR.MINOR.PATCH`.
+- **MAJOR**: cambios incompatibles con versiones anteriores.
+- **MINOR**: nuevas funcionalidades compatibles hacia atrás.
+- **PATCH**: correcciones de errores compatibles.
+
+**Enlace al PR hacia el repositorio original**: (se añadirá después)
