@@ -195,7 +195,19 @@ YA SE AGREGO
 **📝 Respuesta:**
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 5 -->
+### Respuesta Pregunta 5
 
+**Procedimiento**:
+1. Creé ramas `ramaA` y `ramaB` desde develop.
+2. En cada rama creé `archivoA.txt` con contenido distinto.
+3. Al fusionar `ramaB` en `ramaA`, Git detectó conflicto porque el mismo archivo tenía versiones diferentes.
+4. Resolví el conflicto manualmente combinando ambas líneas.
+5. Fusioné `ramaA` en develop.
+6. Creé PR hacia main y lo fusioné.
+7. Eliminé las ramas con `git branch -d`.
+
+**¿Qué es un conflicto?**  
+Ocurre cuando dos ramas modifican la misma parte de un archivo y Git no puede decidir automáticamente cuál versión conservar
 ---
 
 ## Pregunta 6 (2 puntos)
