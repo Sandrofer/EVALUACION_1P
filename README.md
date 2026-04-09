@@ -121,7 +121,7 @@ git flow feature finish ingresar-encabezado
 ![Inicialización Git Flow](images/pregunta3_init.png)
 ![Inicio feature](images/pregunta3_start.png)
 ---
-
+ YA SE AGREGO
 ## Pregunta 4 (2 puntos)
 
 **Trabajo con Issues y Pull Requests**
@@ -164,7 +164,7 @@ git flow feature finish ingresar-encabezado
    - Documentación actualizada.
    - Posibles efectos secundarios en otras áreas.
 ---
-
+YA SE AGREGO
 ## Pregunta 5 (2 puntos)
 
 **Resolver conflictos entre ramas y realizar un Pull Request**
