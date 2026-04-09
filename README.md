@@ -3,8 +3,8 @@
 ### Carrera de [Ingenieria en Software]  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** Sandro Iker Fernandez Lima  
-**Fecha:** 08/04/2026  
+**Nombre del Estudiante:** Sandro Iker Fernandez Lima (ya habia editado desde el inicio :()  
+**Fecha:** 08/04/2026   (ya habia editado :( )
 
 ---
 
