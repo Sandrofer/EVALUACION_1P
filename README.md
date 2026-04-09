@@ -148,8 +148,21 @@ git flow feature finish ingresar-encabezado
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
+**Teoría**:
 
+1. **¿Qué es un Pull Request y cuál es su función dentro de un flujo de trabajo colaborativo con Git y GitHub?**  
+   Un Pull Request (PR) es una solicitud para fusionar los cambios de una rama (por ejemplo, `develop`) en otra rama (normalmente `main`). Su función principal es permitir la revisión del código por parte de otros miembros del equipo antes de que los cambios se integren en la rama principal. Facilita la discusión, la detección de errores y el control de calidad.
+
+2. **¿Por qué es importante revisar un Pull Request antes de fusionarlo con la rama principal?**  
+   La revisión garantiza que el código cumple con los estándares del proyecto, no introduce errores, es legible, y no afecta negativamente a otras partes del sistema. Además, promueve el conocimiento compartido y evita que código defectuoso llegue a producción.
+
+3. **¿Qué tipo de observaciones o validaciones se suelen realizar durante la revisión de un Pull Request?**  
+   - Correctitud funcional (¿hace lo que debe?).
+   - Estilo y formato (coherencia con guías de estilo).
+   - Rendimiento y seguridad.
+   - Pruebas unitarias y de integración.
+   - Documentación actualizada.
+   - Posibles efectos secundarios en otras áreas.
 ---
 
 ## Pregunta 5 (2 puntos)
