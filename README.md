@@ -71,7 +71,17 @@ PARTE PRACTICA
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu explicación y evidencia para la Pregunta 2 -->
+### Respuesta Pregunta 2
+
+**Función de .gitignore**: Evita que Git rastree archivos innecesarios (logs, temporales, etc.).
+
+**Reglas**:
+- `*.log` → ignora todos los .log
+- `temp/` → ignora toda la carpeta temp
+- `doc/*.md` y `doc/*.txt` → ignora .md y .txt dentro de doc
+
+**Evidencia**:
+![git status mostrando archivos ignorados](images/pregunta2_gitignore.png)
 
 ---
 
